@@ -1,8 +1,9 @@
 # 
 # Solution to Problem 1 - Multiples 3 and 5
-# Copyright (c) . All rights reserved.
-# 
+# - GabrielSilvaSouza
 #
+# Explore more on: 
+# https://github.com/GabrielSilvaSouza/Project-Euler-in-Python
 # 
 
 def sum_of_multiples(a):
