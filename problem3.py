@@ -1,4 +1,4 @@
- # Solution to Problem 1 - Multiples 3 and 5
+ # Solution to Problem 3 - Largest prime factor
 # - GabrielSilvaSouza
 #
 # Explore more on: 
