@@ -1,6 +1,5 @@
 import math
 
-
 def dothecalc(string):
     lres, i = [], 0
     while i < (len(string)-12):
